@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 :OOOO
+=======
+Ceci est un test. Yep.
+>>>>>>> f66afe5b09f6ecc1cf45b636aba8a4795d5e2628
